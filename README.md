@@ -34,17 +34,17 @@ This is a Bash-based Docker management tool designed to simplify common Docker o
 
 ## How to Execute
 
-1. Save the script to a file, e.g., `docker_tool.sh`.
+1. Save the script to a file, e.g., `cms.sh`.
 2. Make the script executable:
 
    ```bash
-   chmod +x docker_tool.sh
+   chmod +x cms.sh
    ```
 
 3. Run the script:
 
    ```bash
-   ./docker_tool.sh
+   ./cms.sh
    ```
 
 4. Follow the interactive menu to perform Docker operations.
